@@ -1,4 +1,4 @@
-# Uzi Replacement for the HL2 Pistl
+# Uzi Replacement for the HL2 Pistol
 
 The One Free-Man - Model/Skin/Sound
 Cool Ranch - Compiling for HL2/World Models
